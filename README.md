@@ -1,11 +1,25 @@
 # Cybersecurity Portfolio - Merroun Lahcen
 ![Merroun Lahcen](https://avatars.githubusercontent.com/u/106389779?s=200)
 ## Skills and Expertise
-- Penetration Testing
-- Web Application Security
-- Bug Bounty Hunting
-- Security Assessments
-- [Add more skills as applicable]
+
+### ![Penetration Testing](https://img.icons8.com/color/48/000000/fingerprint.png) Penetration Testing 
+- Conducting ethical hacking assessments to identify and exploit vulnerabilities.
+
+### ![Web Application Security](https://img.icons8.com/ios-filled/50/000000/application-shield.png) Web Application Security 
+
+- Ensuring the security of web applications through testing and secure coding practices.
+
+### ![Bug Bounty Hunting](https://img.icons8.com/color/48/000000/bug.png) Bug Bounty Hunting 
+- Participating in bug bounty programs to discover and report security vulnerabilities.
+
+### ![Security Assessments](https://img.icons8.com/color/48/000000/security-checked.png) Security Assessments 
+- Performing security assessments and audits to evaluate organizational security posture.
+
+### ![Icon](https://img.icons8.com/color/48/000000/idea.png)
+- Description of the skill or expertise.
+
+
+
 
 ## Projects
  ### From Bug Bounty Contributions on HackerOne and Intigriti 
