@@ -8,18 +8,22 @@
 - [Add more skills as applicable]
 
 ## Projects
-
+ ### From Bug Bounty Contributions on HackerOne and Intigriti 
+- **Description:** Actively participated in bug bounty programs on [HackerOne](https://hackerone.com/dot1412) and [Intigriti](https://app.intigriti.com/profile/merroun) platforms.
+- **Key Contributions:** Discovered and responsibly disclosed security vulnerabilities to various organizations including Visma, IBOOD, UZ Leuven, Infomaniak, TikTok, Kahoot, mateco, Pendo, Stravito, and Fortnox.
+- **Outcome/Results:** Recognized for contributions to improving cybersecurity across multiple platforms.
 ### Project 1: Web Application Security Assessment for Visma ![Visma](https://cdn.prod.website-files.com/6305e092bc95bebe63ae6578/6305e2582d5d17164e965f66_favicon-32x32.png)
 - **Description:** Conducted comprehensive security assessments for Visma's web applications.
 - **Technologies Used:** Burp Suite, OWASP ZAP, Python scripts
 - **Key Contributions:** Identified critical vulnerabilities and provided actionable recommendations for remediation.
 - **Outcome/Results:** Strengthened Visma's web application security posture, reducing potential attack surface.
 
-### Project 2: Bug Bounty Contributions on HackerOne and Intigriti ![HackerOne](https://www.hackerone.com/favicon.ico)
-- **Description:** Actively participated in bug bounty programs on HackerOne and Intigriti platforms.
-- **Key Contributions:** Discovered and responsibly disclosed security vulnerabilities to various organizations including HackerOne, iBOOD, UZ Leuven, Infomaniak, TikTok, Kahoot, mateco, Pendo, Stravito, and Fortnox.
-- **Outcome/Results:** Recognized for contributions to improving cybersecurity across multiple platforms.
-
+### Project 2: Vulnerability Assessment for Fortnox ![Fortnox](https://www.fortnox.se/favicon/favicon-32x32.png)
+- **Description:** Performed vulnerability assessment and penetration testing for Fortnox's financial management software.
+- **Technologies Used:** Nessus, Metasploit, custom exploitation techniques
+- **Key Contributions:** Identified critical vulnerabilities in Fortnox's cloud-based accounting solutions.
+- **Outcome/Results:** Helped Fortnox strengthen their software's security and ensure the confidentiality of financial data.
+- 
 ### Project 3: Security Assessment for iBOOD ![iBOOD](https://www.ibood.com/static/icons/favicon-32x32.png)
 - **Description:** Conducted security assessment and penetration testing for iBOOD's e-commerce platform.
 - **Technologies Used:** Nessus, Metasploit, manual testing techniques
@@ -66,11 +70,7 @@
 - **Key Contributions:** Discovered and responsibly disclosed vulnerabilities in Stravito's web application and user authentication mechanisms.
 - **Outcome/Results:** Contributed to improving Stravito's cybersecurity defenses and protecting sensitive business data.
 
-### Project 11: Vulnerability Assessment for Fortnox ![Fortnox](https://www.fortnox.se/favicon/favicon-32x32.png)
-- **Description:** Performed vulnerability assessment and penetration testing for Fortnox's financial management software.
-- **Technologies Used:** Nessus, Metasploit, custom exploitation techniques
-- **Key Contributions:** Identified critical vulnerabilities in Fortnox's cloud-based accounting solutions.
-- **Outcome/Results:** Helped Fortnox strengthen their software's security and ensure the confidentiality of financial data.
+
 
 <!-- Add more projects as applicable -->
 
