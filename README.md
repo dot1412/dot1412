@@ -1,5 +1,5 @@
 # Cybersecurity Portfolio - Merroun Lahcen
-
+![Merroun Lahcen](https://avatars.githubusercontent.com/u/106389779?s=200)
 ## Skills and Expertise
 - Penetration Testing
 - Web Application Security
